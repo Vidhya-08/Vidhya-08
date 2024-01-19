@@ -5,11 +5,11 @@ Computer science Engineering Student👩‍💻
 - 🧐 I'm looking for help with placements in reputed company.
 - 💬 If you want to reach me:
 <br></br>
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 ## I code in
-<br></br>
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 <br></br>
 ## Workspace Spec
 
