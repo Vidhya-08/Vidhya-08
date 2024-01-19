@@ -10,7 +10,7 @@ Computer science Engineering Student👩‍💻
 ## I code in
 
 <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-<br></br>
+
 ## Workspace Spec
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VIDHYASURESH?theme=wtf&font=Marko%20One&ext=contest)
