@@ -4,7 +4,6 @@ Computer science Engineering Student👩‍💻
 - 😇 Meanwhile,I'm learning DSA and sharpening my knowledge.
 - 🧐 I'm looking for help with placements in reputed company.
 - 💬 If you want to reach me:
-<br></br>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 ## I code in
