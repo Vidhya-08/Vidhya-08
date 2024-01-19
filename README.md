@@ -1,16 +1,18 @@
-### Hi there 👋
+## Greetings all🙏I'm Vidhya
+Computer science Engineering Student👩‍💻I'm currently exploring fullstack development out of my own interest.
+- Meanwhile,I'm learning DSA and sharpening my knowledge.
+- I'm looking for help with placements in reputed company.
+- If you want to reach me:
+<br></br>
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
-<!--
-**Vidhya-08/Vidhya-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I code in
+<br></br>
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
-Here are some ideas to get you started:
+![LeetCode Stats](https://leetcard.jacoblin.cool/VIDHYASURESH?theme=wtf&font=Marko%20One&ext=contest)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Vidhya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vidhya-08&bg_color=322f2f&color=ffffff&line=82ff46&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
