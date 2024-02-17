@@ -1,6 +1,6 @@
 ## Greetings all🙏I'm Vidhya
 Computer science Engineering Student👩‍💻
-- 🤩 I'm currently exploring fullstack development out of my own interest.
+- 🤩 I'm currently exploring fullstack web development out of my own interest.
 - 😇 Meanwhile,I'm learning DSA and sharpening my coding skills.
 - 🧐 I'm looking for help with placements in reputed company.
 - 👩‍💻 [My Skillrack Profile](http://www.skillrack.com/profile/351947/f28502fcbc50544d4b31a4a4541010476a532ae0)
