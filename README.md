@@ -3,7 +3,7 @@ Computer science Engineering Student👩‍💻
 - 🤩 I'm currently exploring fullstack development out of my own interest.
 - 😇 Meanwhile,I'm learning DSA and sharpening my coding skills.
 - 🧐 I'm looking for help with placements in reputed company.
-- 👩‍💻 [Skillrack](http://www.skillrack.com/profile/351947/f28502fcbc50544d4b31a4a4541010476a532ae0)==
+- 👩‍💻 [Skillrack==](http://www.skillrack.com/profile/351947/f28502fcbc50544d4b31a4a4541010476a532ae0)
 - 💬 If you want to reach me:
   
      &nbsp;[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vidhya-s-790193264)
