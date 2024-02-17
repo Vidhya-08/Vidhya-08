@@ -6,11 +6,11 @@ Computer science Engineering Student👩‍💻
 - 👩‍💻 [Skillrack](http://www.skillrack.com/profile/351947/f28502fcbc50544d4b31a4a4541010476a532ae0)
 - 💬 If you want to reach me:
   
-     &nbsp;<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+     &nbsp;[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vidhya-s-790193264)
 
 ## I code in
 
-<img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>(https://www.linkedin.com/in/vidhya-s-790193264)
+<img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
 ## Workspace Spec
 
